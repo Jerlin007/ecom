@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Good afternoon
-=======
-Good afternoon
->>>>>>> prod
